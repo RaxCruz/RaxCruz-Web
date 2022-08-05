@@ -24,6 +24,10 @@ import projectLogoA from "../image/7.png";
 import projectLogoB from "../image/18.png";
 import projectLogoC from "../image/17.png";
 import projectLogoD from "../image/gallery.png";
+import projectLogoE from "../image/candycrush.png";
+import projectLogoF from "../image/pokergame.png";
+import projectLogoG from "../image/keno.png";
+import projectLogoH from "../image/snake.png";
 import galleryLogoA from "../image/dog.jpg";
 import galleryLogoB from "../image/g1.png";
 import galleryLogoC from "../image/g12.png";
@@ -58,6 +62,10 @@ export {
   projectLogoB,
   projectLogoC,
   projectLogoD,
+  projectLogoE,
+  projectLogoF,
+  projectLogoG,
+  projectLogoH,
   galleryLogoA,
   galleryLogoB,
   galleryLogoC,

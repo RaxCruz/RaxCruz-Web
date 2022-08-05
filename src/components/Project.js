@@ -4,6 +4,10 @@ import {
   projectLogoB,
   projectLogoC,
   projectLogoD,
+  projectLogoE,
+  projectLogoF,
+  projectLogoG,
+  projectLogoH
 } from "../image";
 function Project() {
   return (
@@ -65,6 +69,60 @@ function Project() {
             </div>
             <p class="font-bold mt-4">R'Gallery</p>
             <p class="mt-2 text-sm text-gray-500">Rax's Tiny Gallery</p>
+          </a>
+        </div>
+      
+      </div>
+       <div class="max-w-7xl px-10 mx-auto sm:text-center">
+    
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 my-12 sm:my-16">
+          <a
+            href="https://candy-crush-8xo592hxn-raxcruz.vercel.app/"
+            data-mdb-ripple="true"
+            data-mdb-ripple-color="#0277bd"
+            class="rounded-lg py-10 flex flex-col items-center justify-center shadow-lg border border-gray-100 cursor-pointer hover:border-2 hover:border-blue-600"
+          >
+            <div class="w-1/2">
+              <img src={projectLogoE} alt="" />
+            </div>
+            <p class="font-bold mt-4">Candy Crush</p>
+            <p class="mt-2 text-sm text-gray-500">A Candy Crush Game</p>
+          </a>
+          <a
+            href="https://card-flip-one.vercel.app/"
+            data-mdb-ripple="true"
+            data-mdb-ripple-color="#0277bd"
+            class="rounded-lg py-10 flex flex-col items-center justify-center shadow-lg border border-gray-100 cursor-pointer hover:border-2 hover:border-blue-600"
+          >
+            <div class="w-1/2">
+              <img src={projectLogoF} alt="" />
+            </div>
+            <p class="font-bold mt-4">Card Flip Game</p>
+            <p class="mt-2 text-sm text-gray-500">A Card Flip Game</p>
+          </a>
+          <a
+            href="https://keno-pi.vercel.app/"
+            data-mdb-ripple="true"
+            data-mdb-ripple-color="#0277bd"
+            class="rounded-lg py-10 flex flex-col items-center justify-center shadow-lg border border-gray-100 cursor-pointer hover:border-2 hover:border-blue-600"
+          >
+            <div class="w-1/2">
+              <img src={projectLogoG} alt="" />
+            </div>
+            <p class="font-bold mt-4">KENO Game</p>
+            <p class="mt-2 text-sm text-gray-500">A Lottery Game</p>
+          </a>
+          <a
+            href="https://snake-game-eduw88x01-raxcruz.vercel.app/"
+            data-mdb-ripple="true"
+            data-mdb-ripple-color="#0277bd"
+            class="rounded-lg py-10 flex flex-col items-center justify-center shadow-lg border border-gray-100 cursor-pointer hover:border-2 hover:border-blue-600"
+          >
+            <div class="w-1/2">
+              <img src={projectLogoH} alt="" />
+            </div>
+            <p class="font-bold mt-4">Snake Game</p>
+            <p class="mt-2 text-sm text-gray-500">A Tiny People Snake Game</p>
           </a>
         </div>
         <a

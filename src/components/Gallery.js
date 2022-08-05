@@ -14,7 +14,7 @@ function Gallery() {
       <div class="w-full px-5 py-6 mx-auto space-y-5 sm:py-8 md:py-12 sm:space-y-8 md:space-y-16 max-w-7xl">
         <div class="flex flex-col items-center sm:px-5 md:flex-row">
           <div class="w-full md:w-1/2">
-            <a href="#_" class="block">
+            <a href="#_" class="block cursor-auto" >
               <img
                 class="object-cover w-full h-full rounded-lg max-h-64 sm:max-h-96"
                 src={galleryLogoA}
@@ -50,7 +50,7 @@ function Gallery() {
 
         <div class="flex grid grid-cols-12 pb-10 sm:px-5 gap-x-8 gap-y-16">
           <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
-            <a href="#_" class="block">
+            <a href="#_" class="block cursor-auto">
               <img
                 class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56"
                 src={galleryLogoB}
@@ -73,7 +73,7 @@ function Gallery() {
           </div>
 
           <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
-            <a href="#_" class="block">
+            <a href="#_" class="block cursor-auto">
               <img
                 class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56"
                 src={galleryLogoC}
@@ -97,7 +97,7 @@ function Gallery() {
           </div>
 
           <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
-            <a href="#_" class="block">
+            <a href="#_" class="block cursor-auto">
               <img
                 class="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56"
                 src={galleryLogoD}
@@ -121,7 +121,7 @@ function Gallery() {
           </div>
 
           <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
-            <a href="#_" class="block">
+            <a href="#_" class="block cursor-auto">
               <img
                 class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56"
                 src={galleryLogoE}
@@ -145,7 +145,7 @@ function Gallery() {
           </div>
 
           <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
-            <a href="#_" class="block">
+            <a href="#_" class="block cursor-auto">
               <img
                 class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56"
                 src={galleryLogoF}
@@ -169,7 +169,7 @@ function Gallery() {
           </div>
 
           <div class="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
-            <a href="#_" class="block">
+            <a href="#_" class="block cursor-auto ">
               <img
                 class="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56"
                 src={galleryLogoG}
