@@ -12,6 +12,7 @@ function Feature() {
          <span class="text-pink-300">C</span>urriculum <span class="text-pink-300">C</span>ontent
         </span>
       </h1>
+      <br></br>
       <div class="box-border flex flex-col items-center content-center px-8 mx-auto leading-6 text-black border-0 border-gray-300 border-solid md:flex-row max-w-7xl lg:px-16">
         <div class="box-border relative w-full max-w-md px-4 mt-5 mb-4 -ml-5 text-center bg-no-repeat bg-contain border-solid md:ml-0 md:mt-0 md:max-w-none lg:mb-0 md:w-1/2 xl:pl-10">
           <img
