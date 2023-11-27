@@ -30,21 +30,22 @@ function Hero() {
             <div class="w-full md:w-1/2 md:px-3">
               <div class="w-full pb-6 space-y-6 sm:max-w-md lg:max-w-lg md:space-y-4 lg:space-y-8 xl:space-y-9 sm:pr-5 lg:pr-0 md:pb-0">
                 <h1 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-4xl lg:text-5xl xl:text-6xl">
-                  <span class="block">Hello There,</span>
+                  <span class="block">哈囉 你好,</span>
                   <span class="block text-indigo-600 xl:inline">
                     I am Rax Cruz
                   </span>
                 </h1>
                 <p class="mx-auto text-base text-gray-500 sm:max-w-md lg:text-xl md:max-w-3xl">
-                  If you are doing your best, you will not have to worry about
-                  failure.
+                  ㄡr 創辦人
+                  <br></br>
+                  致力於實體教學「程式設計」「網頁設計」
                 </p>
                 <div class="relative flex flex-col sm:flex-row sm:space-x-4">
                   <a
-                    href="https://github.com/RaxCruz"
+                    href="https://www.instagram.com/peter030910/"
                     class="flex items-center w-full px-6 py-3 mb-3 text-lg text-white bg-indigo-600 rounded-md sm:mb-0 hover:bg-indigo-700 sm:w-auto"
                   >
-                    Rax's GitHub
+                    前往 Instagram
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       class="w-5 h-5 ml-1"

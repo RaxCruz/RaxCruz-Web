@@ -36,8 +36,7 @@ function Gallery() {
               </div>
               <h1 class="text-4xl font-bold leading-none lg:text-5xl xl:text-6xl">
                 <span href="#_">
-                  A mini <span class="text-red-400">Gallery</span> . All Rax's
-                  Design .
+                  迷你 <span class="text-red-400">畫展</span> . 全來自 Rax 親手繪製.
                 </span>
               </h1>
               <p class="pt-2 text-xs font-medium">

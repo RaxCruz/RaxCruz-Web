@@ -35,6 +35,8 @@ import galleryLogoD from "../image/g13.png";
 import galleryLogoE from "../image/g14.png";
 import galleryLogoF from "../image/g15.png";
 import galleryLogoG from "../image/g16.png";
+import cpp from "../image/cpp.png";
+import company from "../image/company.png";
 export {
   logoA,
   logoA2,
@@ -73,4 +75,6 @@ export {
   galleryLogoE,
   galleryLogoF,
   galleryLogoG,
+  cpp,
+  company
 };
